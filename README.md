@@ -58,3 +58,14 @@ https://commentpicker.com/find-facebook-id.php
 Para ID de uma publicação https://commentpicker.com/facebook-post-id-finder.php
 Exportar comentários 
 https://commentpicker.com/export-comments-facebook.php
+
+## 💀E-mail💀
+https://osint.rocks/
+https://epieos.com/
+https://www.aware-online.com/osint-tools/e-mail-search-tool/
+https://www.aware-online.com/osint-tools/emailadressen-tools/
+https://intelx.io/tools?tab=email
+https://dehashed.com/search
+https://haveibeenpwned.com/
+https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+Acesso para Forças Polícias e Federais Agentes da lei podem solicitar registros do EMAIL https://support.google.com/transparencyreport/answer/7381738?hl=en
