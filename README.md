@@ -117,3 +117,11 @@ https://ezgif.com/view-metadata
 ## 🧌Dork GPT🧌
 https://dorksearch.com/
 https://www.dorkgpt.com/
+
+## 💀Ferramentas do governo💀
+https://impostosreceita.site/imposto/cpf/
+https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp
+https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/
+https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais
+https://www.jusbrasil.com.br/consulta-processual/
+https://www.escavador.com/solucoes/consulta-de-processos
