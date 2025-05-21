@@ -50,3 +50,11 @@ https://www.sotwe.com/
 https://www.aware-online.com/en/osint-tools/twitter-search-tool/
 https://www.aware-online.com/en/osint-tutorials/find-tweets-posted-from-a-specific-location/
 Acesso para Forças Polícias e Federais Agentes da lei podem solicitar registros do Twitter https://legalrequests.twitter.com/forms/landing_disclaimer
+
+## 🧌Facebook🧌
+https://intelx.io/tools?tab=facebook
+Para pegar ID
+https://commentpicker.com/find-facebook-id.php
+Para ID de uma publicação https://commentpicker.com/facebook-post-id-finder.php
+Exportar comentários 
+https://commentpicker.com/export-comments-facebook.php
