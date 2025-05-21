@@ -76,3 +76,9 @@ https://www.tiktok.com/legal/law-enforcement?lang=en
 Para pegar ID
 https://commentpicker.com/tiktok-id.php
 Exportar seguidores https://commentpicker.com/export-tiktok-followers.php
+
+## 💀Reddit💀
+https://www.aware-online.com/en/osint-tools/reddit-search-tool/
+https://redective.com
+https://redditcommentsearch.com/
+Acesso para Forças Polícias e Federais Agentes da lei podem solicitar o registro do Reddit https://www.reddit.com/wiki/law_enforcement_guidelines
