@@ -82,3 +82,14 @@ https://www.aware-online.com/en/osint-tools/reddit-search-tool/
 https://redective.com
 https://redditcommentsearch.com/
 Acesso para Forças Polícias e Federais Agentes da lei podem solicitar o registro do Reddit https://www.reddit.com/wiki/law_enforcement_guidelines
+
+## 🧌Whois/Ip🧌
+https://osint.rocks/
+https://intelx.io/tools?tab=ip
+https://whoishostingthis.com/
+https://whoisology.com/
+https://builtwith.com/
+https://metrics.torproject.org/exonerator.html
+https://intelx.io/
+https://www.shodan.io/
+https://archive.org/
