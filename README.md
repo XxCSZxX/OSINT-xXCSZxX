@@ -124,6 +124,74 @@ https://ezgif.com/view-metadata
 https://dorksearch.com/
 https://www.dorkgpt.com/
 
+## 💀Google Hacker💀
+intext:+55 intext:(11) numrange: 00000-99999 AND-AND numrange 0000-9999 site instagram.com
+
+filetype:pdf intext:CPF numrange 00000000000-99999999999 intext: "RG"
+
+intitle:confidencial filetype:pdf intext:"RG" | CPF numrange:00000000-99999999
+
+site:telelistas.net "11987654321" OR "11 987654321" OR "11 98765-4321" OR "(11)987654321" OR "(11) 987654321" OR "(11) 98765-4321"
+
+filetype:pdf | filetype:dot | filetype:doc intext:"CPF" AND intext:"RG" numrange: 00000000000-99999999999
+
+filetype:doc "senha" intext:@gmail.com | @hotmail.com | @yahoo.com
+
+"(62)" OR "62" filetype:pdf OR filetype:doc
+
+"99999-1234" OR "telefone" OR "celular" filetype:pdf
+
+("nome completo" OR "nome") ("celular" OR "telefone") "cpf" site:.br filetype:pdf OR filetype:doc OR filetype:xml
+
+"nome" "celular" "cpf" filetype:pdf OR filetype:doc OR filetype:xml
+
+site:instagram.com "nome da pessoa"
+
+site:instagram.com #hashtag
+
+site:instagram.com intext:"email" OR intext:"@gmail.com"
+
+site:instagram.com intitle:"nome"
+
+site:instagram.com "username_da_pessoa" intext:"comentário" OR intext:"comment"
+
+"whatsapp" filetype:pdf OR filetype:doc OR filetype:txt
+
+"contato whatsapp" site:.com
+
+site:reddit.com "palavra-chave"
+
+site:reddit.com "u/nome_do_usuario"
+
+site:reddit.com intext:"termo"
+
+site:reddit.com/r/nome_do_subreddit "termo"
+
+site:twitter.com from:nome_de_usuario
+
+site:twitter.com "@nome_de_usuario"
+
+site:twitter.com "#hashtag"
+
+geocode=LATITUDE,LONGITUDE,RADIUS
+
+geocode=-16.6869,-49.2648,10km
+
+site:pinterest.com "nome da pessoa"
+
+site:pinterest.com/username "tema"
+
+inurl:pinterest.com "palavra-chave"
+
+Muita gente usa o mesmo username no TikTok e no Instagram
+site:tiktok.com OR site:instagram.com "username" 
+
+site:instagram.com "username" AND (bio OR posts)
+
+site:tiktok.com "username" AND (bio OR videos)
+
+site:instagram.com intext:NOME DO USUÁRIO
+
 ## 💀Ferramentas do governo💀
 https://impostosreceita.site/imposto/cpf/
 https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp
