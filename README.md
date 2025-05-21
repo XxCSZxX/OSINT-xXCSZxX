@@ -36,3 +36,17 @@ https://www.aware-online.com/en/osint-tools/phone-number-search-tool/
 Acesso para Forças Policiais e Federais
 Agentes da lei podem solicitar registros do WhatsApp, conforme a legislação e os Termos de Serviço, pelo link:
 https://www.whatsapp.com/records/login/
+
+## 💀Twitter💀
+https://intelx.io/tools?tab=twitter
+https://www.downloadtwittervideo.com/m/pt/
+https://threadreaderapp.com/
+http://geosocialfootprint.com/
+PARA PEGAR O ID
+https://commentpicker.com/twitter-id.php
+Ver Twitter anônimo 
+https://twstalker.com/
+https://www.sotwe.com/
+https://www.aware-online.com/en/osint-tools/twitter-search-tool/
+https://www.aware-online.com/en/osint-tutorials/find-tweets-posted-from-a-specific-location/
+Acesso para Forças Polícias e Federais Agentes da lei podem solicitar registros do Twitter https://legalrequests.twitter.com/forms/landing_disclaimer
