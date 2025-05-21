@@ -26,3 +26,13 @@ PARA CONTA PRIVADA https://www.aware-online.com/en/osint-tutorials/view-private-
 https://instanonimo.com/pt
 Acesso para Forças Polícias e Federais Agentes da lei podem solicitar registros do Instagram 
 https://www.facebook.com/records/login/
+
+## 🧌WhatsApp🧌
+https://osint.rocks/
+https://donodozap.com/
+https://www.truecaller.com/search/us/515-419-8701
+https://consultanumero.abrtelecom.com.br/consultanumero/consulta/consultaSituacaoAtualCtg
+https://www.aware-online.com/en/osint-tools/phone-number-search-tool/
+Acesso para Forças Policiais e Federais
+Agentes da lei podem solicitar registros do WhatsApp, conforme a legislação e os Termos de Serviço, pelo link:
+https://www.whatsapp.com/records/login/
