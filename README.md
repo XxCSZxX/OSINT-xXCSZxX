@@ -201,3 +201,81 @@ https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/
 https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais
 https://www.jusbrasil.com.br/consulta-processual/
 https://www.escavador.com/solucoes/consulta-de-processos
+
+## 🧌Discord🧌 Ativar o modo desenvolvedor do Discord para obter IDs de usuário e outros tipos de IDs
+1. [Guia para ativar o modo desenvolvedor do Discord](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
+2. [Como obter o ID de usuário](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
+
+## Ferramentas e sites
+1. [Verificador da data de criação da conta do Discord](https://hugo.moe/discord/discord-id-creation-date.html)
+2. [Rastreador de histórico do Discord](https://dht.chylex.com/)
+3. [Unfurl](https://dfir.blog/unfurl/) --> Simplifica links
+4. [Greenshot](https://getgreenshot.org/) --> Captura de tela fácil
+5. [Deletador de mensagens do Discord](https://github.com/victornpb/undiscord)
+
+## Motores de busca de servidores Discord
+1. [Discord.me](https://discord.me/servers)
+2. [Busca oficial de servidores Discord](https://discord.com/servers)
+3. [Discord servers](https://discordservers.com/)
+4. [Disboard](https://disboard.org/)
+5. [Discord portal](http://discordportal.com) 
+6. [Discord center](http://discord.center)
+7. [Discord discadia](https://discadia.com/)
+
+## Motores de busca de bots do Discord
+1. [Top.gg](https://top.gg/)
+2. [Discordbots.gg](https://discord.bots.gg/)
+3. [Discord.com](https://discord.com/invite/0cDvIgU2voWn4BaD)
+4. [Discordbotlist](https://discordbotlist.com/)
+5. [Ayblisting](https://ayblisting.com/)
+
+## ✔️✔️ Diversos ✔️✔️
+1. [Status do Discord](https://discordstatus.com/)
+2. [Wiki do Discord](https://discordia.me/en/home)
+3. [Visualizador de avatar do Discord](https://discordzoom.com/en/)
+4. [Links personalizados Dic.gg](https://dsc.gg/)
+5. [Criador de perfis do Discord](https://discords.com/bio/profiles)
+6. [Modelos de servidor Discord](https://www.discord.style/)
+7. [Insígnias do Discord](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
+8. [Hooks do Discord](https://discohook.org)
+9. [Clientes/mods de terceiros do Discord](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
+10. [Busca de ID do Discord](https://github.com/Nenaff/Disserv)
+11. [Banco de links de golpe do Discord](https://github.com/Discord-AntiScam/scam-links)
+12. [Links de golpe focados no Discord](https://github.com/DevSpen/scam-links/)
+13. [URLs de phishing Discord & Steam](https://github.com/Dogino/Discord-Phishing-URLs)
+14. [Links de phishing mantidos ativamente](https://github.com/nikolaischunk/discord-phishing-links)
+15. [Ferramenta de busca Discord](https://github.com/discordlookup/discordlookup)
+16. [Criador de mensagens secretas no Discord](https://holloway.nz/steg/)
+17. [Vazamentos do Discord](https://discordleaks.unicornriot.ninja/)
+18. [Rastreador de histórico do Discord](https://dht.chylex.com/)
+19. [Exportador de comentários](https://exportcomments.com/)
+20. [Tokens Canary](https://canarytokens.org/nest/generate)
+21. [Buscador de apelidos](https://whatsmyname.app/)
+22. [Buscador facial](https://facecheck.id/)
+23. [Busca por nome de usuário](https://instantusername.com/#/)
+24. [Busca por nome de usuário #2](https://usersearch.org/)
+25. [Bot de log do Discord](https://quark.bot/)
+
+## Sintaxe de busca no Discord
+Comandos (filtros) usados na barra de busca do Discord para facilitar as pesquisas.
+Para refinar sua busca, use os seguintes filtros com sua consulta:
+
+1. from: usuário --> Mostra resultados de um usuário específico.
+2. mentions: usuário --> Mostra menções ao usuário especificado.
+3. has: link, embed ou file --> Mostra mensagens com o elemento especificado.
+4. before: data --> Mostra mensagens enviadas antes da data especificada.
+5. during: data --> Mostra mensagens enviadas na data especificada.
+6. after: data --> Mostra mensagens enviadas após a data especificada.
+7. in: canais --> Mostra mensagens enviadas no canal especificado.
+
+![Operadores de busca do Discord](https://user-images.githubusercontent.com/59100756/122185964-66a22d80-ce42-11eb-9a70-72cfd0f5c32f.png)
+
+## Consultas Google & Dorks
+### Note que "SystemExploited" e o ID de usuário usado devem ser substituídos pelo nome ou ID do seu alvo
+
+1. "system exploited discord " --> busca por nome de usuário
+2. 535045342098489344 --> busca por ID de usuário
+3. SystemExploited#0773 --> busca por nome de usuário com #
+4. system exploited discord twitter 
+5. system exploited discord instagram
+6. system exploited discord tiktok
