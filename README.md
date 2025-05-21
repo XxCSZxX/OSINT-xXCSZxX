@@ -125,6 +125,8 @@ https://dorksearch.com/
 https://www.dorkgpt.com/
 
 ## 💀Google Hacker💀
+"QUALQUER COISA AQUI" Dork universal
+
 intext:+55 intext:(11) numrange: 00000-99999 AND-AND numrange 0000-9999 site instagram.com
 
 filetype:pdf intext:CPF numrange 00000000000-99999999999 intext: "RG"
