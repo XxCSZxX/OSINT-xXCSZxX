@@ -93,3 +93,9 @@ https://metrics.torproject.org/exonerator.html
 https://intelx.io/
 https://www.shodan.io/
 https://archive.org/
+
+## 💀Fóruns Lendários💀
+https://start.me/p/RMKeQv/search-social-media
+https://start.me/p/vjy5XB/osint-community-frameworks-directories
+https://start.me/p/b5NOR6/atozosint
+https://start.me/p/lL98AO/osint-smart-framework
