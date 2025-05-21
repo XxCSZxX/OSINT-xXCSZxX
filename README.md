@@ -69,3 +69,10 @@ https://dehashed.com/search
 https://haveibeenpwned.com/
 https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 Acesso para Forças Polícias e Federais Agentes da lei podem solicitar registros do EMAIL https://support.google.com/transparencyreport/answer/7381738?hl=en
+
+## 🧌Tiktok🧌
+Acesso para Forças Polícias e Federais Agentes da lei podem solicitar o registro do Tiktok 
+https://www.tiktok.com/legal/law-enforcement?lang=en
+Para pegar ID
+https://commentpicker.com/tiktok-id.php
+Exportar seguidores https://commentpicker.com/export-tiktok-followers.php
