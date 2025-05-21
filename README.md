@@ -107,3 +107,9 @@ https://start.me/p/gyx6xy/financial-intelligence-finint
 https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/
 https://www.aware-online.com/osint-tools/cryptocurrency-tools/
 https://intelx.io/tools?tab=bitcoin
+
+## 💀Metadados💀
+https://intelx.io/tools?tab=image
+https://start.me/p/b5NOR6/atozosint
+https://exif.tools/
+https://ezgif.com/view-metadata
