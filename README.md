@@ -17,6 +17,11 @@ https://www.aware-online.com/en/osint-tools/username-tools/
 https://start.me/p/b5MG5r/social-media-intelligence-socmint
 https://start.me/p/b5NOR6/atozosint
 
+## 😳CABULOSO😳
+https://osint.rocks/
+https://www.aware-online.com/en/osint-tools/
+https://intelx.io/tools?tab=general
+
 ## 💀Instagram💀
 PARA PEGAR O ID https://commentpicker.com/instagram-user-id.php
 "ESSE PARA ACHAR A CONTA COM ID" https://commentpicker.com/instagram-username.php
