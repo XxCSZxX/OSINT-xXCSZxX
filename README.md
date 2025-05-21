@@ -99,3 +99,11 @@ https://start.me/p/RMKeQv/search-social-media
 https://start.me/p/vjy5XB/osint-community-frameworks-directories
 https://start.me/p/b5NOR6/atozosint
 https://start.me/p/lL98AO/osint-smart-framework
+
+## 🧌Cryptomoeda🧌
+https://start.me/p/6rvdx4/cryptocurrency-intelligence
+https://start.me/p/b5NOR6/atozosint
+https://start.me/p/gyx6xy/financial-intelligence-finint
+https://www.aware-online.com/osint-tools/cryptocurrency-search-tool/
+https://www.aware-online.com/osint-tools/cryptocurrency-tools/
+https://intelx.io/tools?tab=bitcoin
