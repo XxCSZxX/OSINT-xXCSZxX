@@ -23,6 +23,10 @@ https://osint.rocks/
 https://www.aware-online.com/en/osint-tools/
 https://intelx.io/tools?tab=general
 
+## 🧌Busca facial on-line🧌
+https://facecheck.id/pt
+https://www.duplichecker.com/face-search.php
+
 ## 💀Instagram💀
 PARA PEGAR O ID https://commentpicker.com/instagram-user-id.php
 "ESSE PARA ACHAR A CONTA COM ID" https://commentpicker.com/instagram-username.php
