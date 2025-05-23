@@ -137,7 +137,7 @@ filetype:pdf intext:CPF numrange 00000000000-99999999999 intext: "RG"
 
 intitle:confidencial filetype:pdf intext:"RG" | CPF numrange:00000000-99999999
 
-site:telelistas.net "11987654321" OR "00 00000000" OR "00 0000-0000" OR "(00)0000000" OR "(00) 0000000" OR "(00) 000-000"
+site:telelistas.net "000000000" OR "00 00000000" OR "00 0000-0000" OR "(00)0000000" OR "(00) 0000000" OR "(00) 000-000"
 
 filetype:pdf | filetype:dot | filetype:doc intext:"CPF" AND intext:"RG" numrange: 00000000000-99999999999
 
