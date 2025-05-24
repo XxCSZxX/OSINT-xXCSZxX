@@ -17,7 +17,7 @@ https://www.aware-online.com/en/osint-tools/username-tools/
 https://start.me/p/b5MG5r/social-media-intelligence-socmint
 https://start.me/p/b5NOR6/atozosint
 
-🧌sites apagados💀
+# 🧌sites apagados💀
 https://cachedview.com/
 https://archive.org/
 
