@@ -31,6 +31,9 @@ https://intelx.io/tools?tab=general
 https://facecheck.id/pt
 https://www.duplichecker.com/face-search.php
 
+## 💀MONITORING🧌
+https://www.social-searcher.com/
+
 ## 💀Instagram💀
 PARA PEGAR O ID https://commentpicker.com/instagram-user-id.php
 "ESSE PARA ACHAR A CONTA COM ID" https://commentpicker.com/instagram-username.php
