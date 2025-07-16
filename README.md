@@ -23,9 +23,10 @@ https://archive.org/
 
 ## 😳CABULOSO😳
 https://osint.rocks/
-
+https://osintframework.com/
 https://www.aware-online.com/en/osint-tools/
 https://intelx.io/tools?tab=general
+https://github.com/osintbrazuca/osint-brazuca
 
 ## 🧌Busca facial on-line🧌
 https://facecheck.id/pt
